@@ -1,4 +1,6 @@
 ## Exno.8-Prompt-Engg
+NAME : SUJI S
+REG : 212222040164
 ## Aim:
 To perform the exploration of prompting techniques for image generation by attempting to reproduce an existing image using AI models. The goal is to craft precise textual prompts that can guide the AI to recreate the visual elements, style, and composition of the original image as closely as possible.
 
